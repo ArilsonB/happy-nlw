@@ -1,1 +1,1 @@
-# happy-nlw
+![Happy – Leve felicidade para o mundo](https://github.com/arilsonb/happy-nlw/blob/main/.github/Happy_Banner.png?raw=true)
