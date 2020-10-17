@@ -3,5 +3,5 @@
 </p>
 
 <p align="center">
-  Um Projeto de estudo da Next Level Week 3 da <a alt="Github Oficial da Rocketseat" href="https://github.com/rocketseat/">@Rocketseat</a>
+  <h2>Um Projeto de estudo da Next Level Week 3 da <a alt="Github Oficial da Rocketseat" href="https://github.com/rocketseat/">@Rocketseat</a></h2>
 </p>
